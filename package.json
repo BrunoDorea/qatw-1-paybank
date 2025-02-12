@@ -1,0 +1,14 @@
+{
+  "name": "qatw-1",
+  "version": "1.0.0",
+  "description": "[![wakatime](https://wakatime.com/badge/user/68660678-6b86-4b78-98df-f5f41a37e1bc/project/7c47efac-fd61-4c8d-8607-2840ea1160eb.svg)](https://wakatime.com/badge/user/68660678-6b86-4b78-98df-f5f41a37e1bc/project/7c47efac-fd61-4c8d-8607-2840ea1160eb)",
+  "main": "index.js",
+  "scripts": {},
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@playwright/test": "^1.50.1",
+    "@types/node": "^22.13.1"
+  }
+}
